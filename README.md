@@ -11,7 +11,7 @@
 
 4. The algorithm to perform the numerical method mentioned in 3.
 
-## Example in of the Bento Box 
+## Example of the Bento Box (EuropeanCallPricing.cpp)
 1. European call option on the FTSE 100 is purchased at t=0 for maturity T = 3 months. The payoff at maturity is: 
 ![img](https://user-images.githubusercontent.com/36263575/66340256-b37af480-e93c-11e9-8545-a14cd12f01b7.png) 
 
